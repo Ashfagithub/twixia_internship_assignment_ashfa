@@ -4,5 +4,6 @@ This is the file containing the instructions and informations.
 
 ## Build a custom model by training a few product data (e.g. Product name, category, brand, price, size) using any open transformers & models, which should generate a price comparison for a product.
 
-Hi there, my name is Ashfa! I have collected a Kaggle dataset to create a custom model that can be used to predict house prices. You can access the dataset through this URL https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge.
+Hi there, my name is Ashfa! 
+I have collected a Kaggle dataset to create a custom model that can be used to predict house prices. You can access the dataset through this URL https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge.
 The model includes different features and this model generates house price comparison to complete the task by using Linear Regression.
