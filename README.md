@@ -4,5 +4,7 @@
 
 Hi there, my name is Ashfa!
 
+
+
 I have collected a Kaggle dataset to create a custom model that can be used to compare fashion clothing prices according to category, color, gender, size, and brand. You can access the dataset through this URL https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog/code.   The model includes different features and this model generates fashion clothing prize comparison to complete the task.
 
